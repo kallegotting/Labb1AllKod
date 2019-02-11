@@ -1,0 +1,6 @@
+img {
+    table-layout: auto;
+    max-height: 200px;
+    max-width: 120px;
+    padding: 30px;
+}

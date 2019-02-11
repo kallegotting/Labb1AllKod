@@ -1,3 +1,14 @@
+.h2{
+    color: white;
+}
+
+.passwordH1{
+    color: white;
+}
+
+.passwordH2{
+    color: white;
+}
 /* Add a black background color to the top navigation */
 .topnav {
     background-color: #333;
@@ -37,12 +48,6 @@ table, tr, th{
     color: white;
 }
 
-.p{
-    color: #f2f2f2;
-}
-.h2{
-    color: #f2f2f2;
-}
 ol {
     background: dimgray;
     padding: 10px;
